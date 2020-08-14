@@ -8,4 +8,4 @@ At first when two players connect with the server the game starts. The server op
 
 Poker hand serial can be seen by the players at the very first scene of the game by clicking on the "Rules" button.The game starts when both the player clicks on "Play" button at the very first scene of the game.
 
-Here is the final [result](https://www.youtube.com/watch?v=AM9LF70yYgQ&t=22s&feature=youtu.be)
+Here is the final [result](https://www.youtube.com/watch?v=AM9LF70yYgQ&t=22s&feature=youtu.be).
